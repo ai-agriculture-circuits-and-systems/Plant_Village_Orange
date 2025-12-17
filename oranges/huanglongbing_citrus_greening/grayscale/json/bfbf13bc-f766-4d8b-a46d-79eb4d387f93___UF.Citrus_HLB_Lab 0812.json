@@ -1,0 +1,94 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 50.0,
+      "source": "plant_village_classification",
+      "original_filename": "UF.Citrus_HLB_Lab 0812.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 3704457231,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (4157).JPG",
+      "size": 6160,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "UF.Citrus_HLB_Lab 0812.JPG",
+      "pvc_filename": "bfbf13bc-f766-4d8b-a46d-79eb4d387f93___UF.Citrus_HLB_Lab 0812.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2102747240,
+      "image_id": 3704457231,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 17589,
+      "bbox": [
+        43,
+        13,
+        213,
+        243
+      ]
+    },
+    {
+      "id": 8776639240,
+      "image_id": 3704457231,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 218,
+      "bbox": [
+        22,
+        78,
+        18,
+        35
+      ]
+    },
+    {
+      "id": 3699642240,
+      "image_id": 3704457231,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 169,
+      "bbox": [
+        182,
+        62,
+        25,
+        12
+      ]
+    },
+    {
+      "id": 4700218240,
+      "image_id": 3704457231,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 114,
+      "bbox": [
+        208,
+        38,
+        16,
+        13
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000015,
+      "name": "Haunglongbing_(Citrus_greening)",
+      "supercategory": "Orange"
+    }
+  ]
+}

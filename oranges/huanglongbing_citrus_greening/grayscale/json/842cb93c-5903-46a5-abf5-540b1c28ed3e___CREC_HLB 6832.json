@@ -1,0 +1,105 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": "OCT_569.0"
+    }
+  },
+  "images": [
+    {
+      "id": 8585070407,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (2633).JPG",
+      "size": 16110,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "CREC_HLB 6832.JPG",
+      "pvc_filename": "842cb93c-5903-46a5-abf5-540b1c28ed3e___CREC_HLB 6832.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2784685417,
+      "image_id": 8585070407,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 34392,
+      "bbox": [
+        0,
+        0,
+        256,
+        256
+      ]
+    },
+    {
+      "id": 9070495417,
+      "image_id": 8585070407,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 548,
+      "bbox": [
+        68,
+        170,
+        23,
+        32
+      ]
+    },
+    {
+      "id": 7149674417,
+      "image_id": 8585070407,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 203,
+      "bbox": [
+        111,
+        186,
+        20,
+        16
+      ]
+    },
+    {
+      "id": 4484285417,
+      "image_id": 8585070407,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 747,
+      "bbox": [
+        122,
+        120,
+        43,
+        55
+      ]
+    },
+    {
+      "id": 5815185417,
+      "image_id": 8585070407,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 126,
+      "bbox": [
+        150,
+        108,
+        25,
+        14
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000015,
+      "name": "Haunglongbing_(Citrus_greening)",
+      "supercategory": "Orange"
+    }
+  ]
+}
