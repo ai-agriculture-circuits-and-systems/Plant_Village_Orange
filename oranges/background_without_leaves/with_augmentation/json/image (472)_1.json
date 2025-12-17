@@ -1,0 +1,41 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 1.0,
+      "source": "plant_village_classification",
+      "original_filename": "image (472)_1.jpg"
+    }
+  },
+  "images": [
+    {
+      "id": 1828756216,
+      "width": 256,
+      "height": 192,
+      "file_name": "image (472)_1.jpg",
+      "size": 6168,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "image (472)_1.jpg",
+      "pvc_filename": "image (472)_1.jpg"
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 2000000002,
+      "name": "background_without_leaves",
+      "supercategory": "Orange"
+    }
+  ]
+}

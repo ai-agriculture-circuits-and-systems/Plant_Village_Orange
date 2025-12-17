@@ -1,0 +1,20 @@
+[
+  {
+    "object_id": 0,
+    "label_id": 0,
+    "keyboard_shortcut": "0",
+    "object_name": "background"
+  },
+  {
+    "object_id": 1,
+    "label_id": 1,
+    "keyboard_shortcut": "1",
+    "object_name": "huanglongbing_citrus_greening"
+  },
+  {
+    "object_id": 2,
+    "label_id": 2,
+    "keyboard_shortcut": "2",
+    "object_name": "background_without_leaves"
+  }
+]
