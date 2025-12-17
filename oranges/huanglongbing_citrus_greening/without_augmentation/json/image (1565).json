@@ -1,0 +1,224 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 19.0,
+      "source": "plant_village_classification",
+      "original_filename": "UF.Citrus_HLB_Lab 0217.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 5943536765,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1565).JPG",
+      "size": 8423,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "UF.Citrus_HLB_Lab 0217.JPG",
+      "pvc_filename": "26af621a-2fdc-4799-85a5-211c0ab4b05c___UF.Citrus_HLB_Lab 0217.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5362470777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 330,
+      "bbox": [
+        57,
+        232,
+        46,
+        24
+      ]
+    },
+    {
+      "id": 8570989777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 5350,
+      "bbox": [
+        132,
+        76,
+        124,
+        180
+      ]
+    },
+    {
+      "id": 7253677777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 368,
+      "bbox": [
+        81,
+        193,
+        66,
+        51
+      ]
+    },
+    {
+      "id": 8322966777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 129,
+      "bbox": [
+        165,
+        188,
+        18,
+        21
+      ]
+    },
+    {
+      "id": 4499893777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 146,
+      "bbox": [
+        106,
+        170,
+        21,
+        11
+      ]
+    },
+    {
+      "id": 6033345777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 101,
+      "bbox": [
+        25,
+        145,
+        29,
+        17
+      ]
+    },
+    {
+      "id": 1194810777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 641,
+      "bbox": [
+        92,
+        128,
+        41,
+        30
+      ]
+    },
+    {
+      "id": 6085819777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 411,
+      "bbox": [
+        4,
+        63,
+        23,
+        83
+      ]
+    },
+    {
+      "id": 9903534777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 2120,
+      "bbox": [
+        91,
+        8,
+        94,
+        119
+      ]
+    },
+    {
+      "id": 9744941777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 149,
+      "bbox": [
+        97,
+        58,
+        31,
+        9
+      ]
+    },
+    {
+      "id": 6356060777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 175,
+      "bbox": [
+        153,
+        32,
+        17,
+        32
+      ]
+    },
+    {
+      "id": 6154592777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 122,
+      "bbox": [
+        25,
+        39,
+        31,
+        23
+      ]
+    },
+    {
+      "id": 7951525777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 201,
+      "bbox": [
+        182,
+        19,
+        11,
+        33
+      ]
+    },
+    {
+      "id": 1441270777,
+      "image_id": 5943536765,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 110,
+      "bbox": [
+        90,
+        9,
+        54,
+        12
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000015,
+      "name": "Haunglongbing_(Citrus_greening)",
+      "supercategory": "Orange"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3266174978,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (2912).JPG",
+      "size": 11013,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3366718979,
+      "image_id": 3266174978,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 204,
+      "bbox": [
+        128,
+        220,
+        28,
+        30
+      ]
+    },
+    {
+      "id": 2310616979,
+      "image_id": 3266174978,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 157,
+      "bbox": [
+        81,
+        219,
+        45,
+        29
+      ]
+    },
+    {
+      "id": 3214270979,
+      "image_id": 3266174978,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 9357,
+      "bbox": [
+        28,
+        0,
+        211,
+        223
+      ]
+    },
+    {
+      "id": 9488513979,
+      "image_id": 3266174978,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 205,
+      "bbox": [
+        63,
+        72,
+        39,
+        25
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000015,
+      "name": "Haunglongbing_(Citrus_greening)",
+      "supercategory": "Orange"
+    }
+  ]
+}

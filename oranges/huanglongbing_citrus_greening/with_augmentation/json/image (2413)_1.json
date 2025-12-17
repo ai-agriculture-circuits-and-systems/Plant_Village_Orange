@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1766247405,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (2413).JPG",
+      "size": 8149,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8016283407,
+      "image_id": 1766247405,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 12243,
+      "bbox": [
+        0,
+        8,
+        228,
+        232
+      ]
+    },
+    {
+      "id": 7204604407,
+      "image_id": 1766247405,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 153,
+      "bbox": [
+        140,
+        44,
+        28,
+        14
+      ]
+    },
+    {
+      "id": 1179858407,
+      "image_id": 1766247405,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 103,
+      "bbox": [
+        0,
+        21,
+        19,
+        14
+      ]
+    },
+    {
+      "id": 2430547407,
+      "image_id": 1766247405,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 120,
+      "bbox": [
+        118,
+        17,
+        29,
+        15
+      ]
+    },
+    {
+      "id": 9868512407,
+      "image_id": 1766247405,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 500,
+      "bbox": [
+        25,
+        0,
+        55,
+        25
+      ]
+    },
+    {
+      "id": 2223239407,
+      "image_id": 1766247405,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 129,
+      "bbox": [
+        0,
+        2,
+        20,
+        19
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000015,
+      "name": "Haunglongbing_(Citrus_greening)",
+      "supercategory": "Orange"
+    }
+  ]
+}

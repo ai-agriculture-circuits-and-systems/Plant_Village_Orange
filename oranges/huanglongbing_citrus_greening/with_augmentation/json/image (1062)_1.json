@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8507116415,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1062).JPG",
+      "size": 11619,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5059112416,
+      "image_id": 8507116415,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 6393,
+      "bbox": [
+        74,
+        13,
+        167,
+        233
+      ]
+    },
+    {
+      "id": 5359966416,
+      "image_id": 8507116415,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 727,
+      "bbox": [
+        16,
+        103,
+        119,
+        138
+      ]
+    },
+    {
+      "id": 2411242416,
+      "image_id": 8507116415,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 118,
+      "bbox": [
+        150,
+        143,
+        25,
+        9
+      ]
+    },
+    {
+      "id": 3377665416,
+      "image_id": 8507116415,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 199,
+      "bbox": [
+        108,
+        124,
+        16,
+        20
+      ]
+    },
+    {
+      "id": 6409380416,
+      "image_id": 8507116415,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 170,
+      "bbox": [
+        176,
+        112,
+        24,
+        20
+      ]
+    },
+    {
+      "id": 1588733416,
+      "image_id": 8507116415,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 218,
+      "bbox": [
+        150,
+        112,
+        21,
+        17
+      ]
+    },
+    {
+      "id": 1344844416,
+      "image_id": 8507116415,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 272,
+      "bbox": [
+        44,
+        96,
+        22,
+        16
+      ]
+    },
+    {
+      "id": 5605003416,
+      "image_id": 8507116415,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 397,
+      "bbox": [
+        160,
+        89,
+        40,
+        21
+      ]
+    },
+    {
+      "id": 1210569416,
+      "image_id": 8507116415,
+      "category_id": 1000000015,
+      "segmentation": [],
+      "area": 167,
+      "bbox": [
+        44,
+        60,
+        19,
+        16
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000015,
+      "name": "Haunglongbing_(Citrus_greening)",
+      "supercategory": "Orange"
+    }
+  ]
+}

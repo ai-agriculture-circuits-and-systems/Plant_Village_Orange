@@ -1,0 +1,41 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 1.0,
+      "source": "plant_village_classification",
+      "original_filename": "CREC_HLB 4782_final_masked.jpg"
+    }
+  },
+  "images": [
+    {
+      "id": 4874027885,
+      "width": 256,
+      "height": 256,
+      "file_name": "cb67da3b-8201-4a82-8e48-729c401ab4a0___CREC_HLB 4782_final_masked.jpg",
+      "size": 8556,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "CREC_HLB 4782_final_masked.jpg",
+      "pvc_filename": "cb67da3b-8201-4a82-8e48-729c401ab4a0___CREC_HLB 4782_final_masked.jpg"
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 2000000001,
+      "name": "huanglongbing_citrus_greening",
+      "supercategory": "Orange"
+    }
+  ]
+}

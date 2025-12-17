@@ -1,0 +1,133 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 112.0,
+      "source": "plant_village_classification",
+      "original_filename": "UF.Citrus_HLB_Lab 9639.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 6483427084,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (4631).JPG",
+      "size": 7885,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "UF.Citrus_HLB_Lab 9639.JPG",
+      "pvc_filename": "d1838da6-03f1-4bea-bf95-887bbbcc224d___UF.Citrus_HLB_Lab 9639.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4491315090,
+      "image_id": 6483427084,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 8748,
+      "bbox": [
+        105,
+        5,
+        151,
+        241
+      ]
+    },
+    {
+      "id": 9134588090,
+      "image_id": 6483427084,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 122,
+      "bbox": [
+        106,
+        216,
+        24,
+        21
+      ]
+    },
+    {
+      "id": 9853469090,
+      "image_id": 6483427084,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 776,
+      "bbox": [
+        11,
+        35,
+        46,
+        146
+      ]
+    },
+    {
+      "id": 6326199090,
+      "image_id": 6483427084,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 345,
+      "bbox": [
+        160,
+        117,
+        32,
+        23
+      ]
+    },
+    {
+      "id": 3784173090,
+      "image_id": 6483427084,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 103,
+      "bbox": [
+        138,
+        105,
+        16,
+        13
+      ]
+    },
+    {
+      "id": 1472168090,
+      "image_id": 6483427084,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 899,
+      "bbox": [
+        176,
+        52,
+        37,
+        52
+      ]
+    },
+    {
+      "id": 7402015090,
+      "image_id": 6483427084,
+      "category_id": 2000000015,
+      "segmentation": [],
+      "area": 367,
+      "bbox": [
+        144,
+        69,
+        33,
+        21
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000015,
+      "name": "Haunglongbing_(Citrus_greening)",
+      "supercategory": "Orange"
+    }
+  ]
+}
